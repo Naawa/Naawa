@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Naawa
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning back-end dev.
-- 💞️ I’m looking to collaborate on e-commerce applications.
-- 📫 How to reach me, n.a.w.a@outlook.com
+### Hi, I’m @Naawa
+- I am studying computer science and have some experience in full-stack web development and writing programs in C++ and Java.
+- I am currently working on https://a2z-inky.vercel.app as a side project, if you would like to collaborate and lend a hand please reach out.
+- You can reach me at: naous.dev@outlook.com
 
 <!---
 Naawa/Naawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
